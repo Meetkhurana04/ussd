@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.ussdchat.app-debug-31:/drawable_send_btn_bg.xml.flat",
+        "source": "com.ussdchat.app-main-33:/drawable/send_btn_bg.xml"
+    },
+    {
+        "merged": "com.ussdchat.app-debug-31:/drawable_chat_bubble_bot.xml.flat",
+        "source": "com.ussdchat.app-main-33:/drawable/chat_bubble_bot.xml"
+    },
+    {
+        "merged": "com.ussdchat.app-debug-31:/drawable_input_bg.xml.flat",
+        "source": "com.ussdchat.app-main-33:/drawable/input_bg.xml"
+    },
+    {
+        "merged": "com.ussdchat.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.ussdchat.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ussdchat.app-debug-31:/drawable_chat_bubble_user.xml.flat",
+        "source": "com.ussdchat.app-main-33:/drawable/chat_bubble_user.xml"
+    },
+    {
+        "merged": "com.ussdchat.app-debug-31:/xml_accessibility_service_config.xml.flat",
+        "source": "com.ussdchat.app-main-33:/xml/accessibility_service_config.xml"
+    }
+]

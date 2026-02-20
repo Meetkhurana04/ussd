@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+drawable chat_bubble_bot
+drawable chat_bubble_user
+drawable input_bg
+drawable send_btn_bg
+id chatRecyclerView
+id inputArea
+id messageInput
+id sendButton
+id statusDot
+id topBar
+layout activity_main
+string accessibility_desc
+string app_name
+xml accessibility_service_config

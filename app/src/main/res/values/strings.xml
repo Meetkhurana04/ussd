@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UPI Chat</string>
+    <string name="accessibility_desc">This service helps process UPI transactions through chat interface by reading USSD responses.</string>
+</resources>
